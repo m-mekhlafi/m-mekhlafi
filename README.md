@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammed Emad AL-Mekhlafi 👋
+# Hi there, I'm Mohammed AL-Mekhlafi 👋
 
 ### 🛡️ Cybersecurity Engineering Student | 💻 Aspiring Web Developer
 

@@ -10,7 +10,7 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** C++, HTML, CSS, JavaScript,Rust (Learning)
+- **Languages:** C++, HTML, CSS, JavaScript, Rust (Learning)
 - **OS:** Debian 13 (Trixie), Windows, Kali Linux
 - **Security:** Ethical Hacking Fundamentals, Networking Troubleshooting
 

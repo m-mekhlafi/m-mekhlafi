@@ -19,7 +19,7 @@
 ### 🔗 Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">]
 (https://www.linkedin.com/in/mohammed-al-mekhlafi-988661406)
-[<img src="https://img.shields.io/badge/TryHackMe-%23212c42.svg?style=for-the-badge&logo=tryhackme&logoColor=white">](https://tryhackme.com/p/malmekhlafi)
+[<img src="https://img.shields.io/badge/TryHackMe-%23212c42.svg?style=for-the-badge&logo=tryhackme&logoColor=white">](https://tryhackme.com/p/Malmekhlafi)
 
 ---
 *"Securing the future, one line of code at a time."*

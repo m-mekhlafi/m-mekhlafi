@@ -32,8 +32,10 @@ A passionate **Cybersecurity Engineering student** and **Developer** based in Ye
 
 ---
 
-### 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-mekhlafi&show_icons=true&theme=radium&hide_border=true)](https://github.com/m-mekhlafi)
+### 📈 GitHub Profile Summary
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-mekhlafi&theme=dracula" alt="Mohammed's GitHub Stats" />
+</p>
 
 ---
 

@@ -2,7 +2,7 @@
 
 ### 🛡️ Cybersecurity & Web Developer Engineer | ⚙️ FOSS Enthusiast
 
-A passionate **Cybersecurity Engineering student** and **Developer** based in Sana'a, Yemen. I specialize in building secure web applications, managing Linux systems, and developing privacy-first Local AI solutions.
+A passionate **Cybersecurity Engineering student** and **Developer** based in Yemen. I specialize in building secure web applications, managing Linux systems, and developing privacy-first Local AI solutions.
 
 - 🔭 **Currently building:** **Quantum Core** – A 100% local, privacy-first AI voice assistant.
 - 🌱 **Actively learning:** Python architectures, Rust, and deep-diving into Debian 13 (Trixie) administration.

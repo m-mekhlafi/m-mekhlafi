@@ -1,14 +1,13 @@
 # Hi there, I'm Mohammed Emad AL-Mekhlafi 👋
 
-### 🛡️ Cybersecurity & Web Developer Engineer | ⚙️ FOSS Enthusiast
+### 🛡️ Cybersecurity, Full-Stack Web Engineer & Software Architect
 
-A passionate **Cybersecurity Engineering student** and **Developer** based in Yemen. I specialize in building secure web applications, managing Linux systems, and developing privacy-first Local AI solutions.
+A results-driven **Cybersecurity Engineer**, **Full-Stack Developer**, and Software Architect with a passion for building secure, scalable, and privacy-first digital solutions. I am dedicated to crafting resilient web applications and software architectures while maintaining a rigorous security posture.
 
-- 🔭 **Currently building:** **Quantum Core** – A 100% local, privacy-first AI voice assistant.
-- 🌱 **Actively learning:** Python architectures, Rust, and deep-diving into Debian 13 (Trixie) administration.
-- ⚡ **What I do:** Solve security challenges on **TryHackMe**, build custom hardware/network setups, and write resilient code.
-- 🎯 **Mission:** Bridging the gap between robust cybersecurity and seamless web experiences.
-
+- 🔭 **Focus:** 🔭 Engineering robust backend ecosystems and secure full-stack web applications that prioritize data integrity, high performance, and seamless user experiences.
+- 🌱 **Expertise:** Specializing in secure development lifecycles (DevSecOps), modern web frameworks, systems engineering, and local, privacy-first deployments.
+- ⚡ **Philosophy:** I believe in the power of "Privacy-by-Design," where advanced security and web usability coexist to create reliable, trustworthy digital environments.
+- 🎯 **Mission:** To innovate at the intersection of cybersecurity, full-stack development, and software architecture, providing solutions that empower users while protecting digital sovereignty.
 ---
 
 ### 🛠️ Tech Stack & Arsenal

@@ -63,7 +63,11 @@ A results-driven **Cybersecurity Engineer**, **Full-Stack Developer**, and Softw
   <a href="https://tryhackme.com/p/Malmekhlafi" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-%23212c42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
+  <a href="mailto:mohammedemad8lxd@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </p>
+
 
 ---
 <p align="center">

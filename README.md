@@ -55,8 +55,10 @@ A results-driven **Cybersecurity Engineer**, **Full-Stack Developer**, and Softw
 ---
 
 ### 🔗 Connect with me
+<div align="center">
 
-<p align="left">
+> *"Securing the future, one line of code at a time."*
+
   <a href="https://www.linkedin.com/in/mohammed-al-mekhlafi-988661406" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -66,10 +68,4 @@ A results-driven **Cybersecurity Engineer**, **Full-Stack Developer**, and Softw
   <a href="mailto:mohammedemad8lxd@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-</p>
-
-
----
-<p align="center">
-  <i>"Securing the future, one line of code at a time."</i>
-</p>
+</div>

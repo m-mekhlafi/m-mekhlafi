@@ -57,7 +57,7 @@ A results-driven **Cybersecurity Engineer**, **Full-Stack Developer**, and Softw
 ### 🔗 Connect with me
 <div align="center">
 
-> *"Securing the future, one line of code at a time."*
+ *"Securing the future, one line of code at a time."*
 
   <a href="https://www.linkedin.com/in/mohammed-al-mekhlafi-988661406" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
